@@ -1,14 +1,17 @@
-# Navigation Menu with Round Icons
-<h2>Description</h2>
-A simple navigation menu implemented with round icons for intuitive user interaction and aesthetic appeal.
+# Navigation Menu with Icons
+## Description ##
+Navigation menu features icons rotated at an angle for a unique and visually appealing design.
 
-Features
-Round icons for each navigation item
-Responsive design for various screen sizes
-Easily customizable icons and colors
-Smooth transition effects on hover or click
-Usage
-Include the necessary HTML and CSS files in your project.
-Use the provided HTML structure to implement the navigation menu in your project.
-Customize the icons, colors, and styles as needed by modifying the CSS classes.
-Test the navigation menu across different devices and screen sizes to ensure responsiveness.
+## Features ##
+* Icons rotated at a specified angle for each navigation item
+* Customizable rotation angle and other styles
+* Smooth transition effects on hover or click
+
+## Usage ##
+* Include the necessary HTML and CSS.
+* Use the HTML structure to implement the navigation menu in project.
+* Customize the rotation angle, icons, colors, and styles as needed by modifying the CSS.
+
+https://github.com/noushiN-Naina/menu_animation_icons/assets/76822360/11b4fe1e-0540-4cc3-bde4-e8b10da56fbc
+
+
